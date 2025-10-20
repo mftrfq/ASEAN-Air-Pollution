@@ -26,8 +26,7 @@ For a visually intuitive and **interactive summary** of the results, including c
 
 [![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-Looker_Studio-orange?style=for-the-badge&logo=google-data-studio)](https://lookerstudio.google.com/reporting/71f3f01f-a330-4670-a760-10e8e4d81fb1)
 
-**Link:** <https://lookerstudio.google.com/reporting/71f3f01f-a330-4670-a760-10e8e4d81fb1>
----
+![Dashboard](assets/Dashboard.png)
 
 ## 🛠 Technology Stack
 
