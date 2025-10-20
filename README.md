@@ -15,7 +15,18 @@ The project is structured around five core objectives:
 3.  **Clustering Analysis:** Apply unsupervised machine learning algorithms to group ASEAN cities based on their multivariate air quality features.
 4.  **Visualization:** Create compelling visualizations, including an interactive geospatial dashboard, to map and interpret the resulting city clusters.
 5.  **Insight Generation:** Deliver actionable insights regarding regional air pollution patterns, temporal trends, and potential transboundary influences relevant to ASEAN policymakers.
+---
+## 📝 Key Findings and Deliverables
 
+The full details of the clustering analysis are available in the `3.0_Clustering_Modeling.ipynb` notebook.
+
+### 📊 Interactive Dashboard (Looker Studio)
+
+For a visually intuitive and **interactive summary** of the results, including cluster maps and comparative metrics, please visit the dedicated dashboard:
+
+[![View Dashboard](https://img.shields.io/badge/View_Interactive_Dashboard-Looker_Studio-orange?style=for-the-badge&logo=google-data-studio)](https://lookerstudio.google.com/reporting/71f3f01f-a330-4670-a760-10e8e4d81fb1)
+
+**Link:** <https://lookerstudio.google.com/reporting/71f3f01f-a330-4670-a760-10e8e4d81fb1>
 ---
 
 ## 🛠 Technology Stack
